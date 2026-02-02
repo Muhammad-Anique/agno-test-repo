@@ -1,0 +1,7 @@
+Hello from Agno MCP Test!
+
+This file was created automatically by the GitHub MCP test script.
+Timestamp: 2026-02-02T18:41:29.933466
+Repository: agno-test-repo (PUBLIC)
+
+Testing create_or_update_file operation.
